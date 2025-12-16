@@ -188,7 +188,8 @@ mapeo_ciudades = {
 @st.cache_data
 def cargar_datos_base():
     file_ids = [
-        "1vU0HSstQpzb68Va8VpqDRINjTR2Mdhsu"              # 🔁 ¡REEMPLAZA ESTO con el ID del nuevo CSV!
+        "1VLMGozkGzj1eETDBAMQU296P2Z4r1wpY",  # archivo original
+        "1HNsqcTWmUMCgRizxOnJbctKfFPEotTWs"               # 🔁 ¡REEMPLAZA ESTO con el ID del nuevo CSV!
     ]
 
     columnas_necesarias = (
