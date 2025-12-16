@@ -188,7 +188,7 @@ mapeo_ciudades = {
 @st.cache_data
 def cargar_datos_base():
     file_ids = [
-        "1vU0HSstQpzb68Va8VpqDRINjTR2Mdhsu",  # archivo original
+        "1vU0HSstQpzb68Va8VpqDRINjTR2Mdhsu" # archivo original
                # 🔁 ¡AQUI VA EL NUEVO URL REEMPLAZA ESTO con el ID del nuevo CSV!
     ]
 
