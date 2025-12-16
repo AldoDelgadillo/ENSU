@@ -9,7 +9,6 @@ Original file is located at
 
 import streamlit as st
 import pandas as pd
-import gdown
 
 # --- Grupo 1: Percepción de inseguridad por tipo de lugar ---
 percepcion_lugares = {
